@@ -2341,7 +2341,7 @@ fieldset {
 
   z-index: 2;
   left: 5%;
-  transform: translateX(25px) translateY(-225px);
+  transform: translateX(15px) translateY(-225px);
   position:relative;
   animation-name:PHOTO;
   animation-duration: 1.5s;
@@ -2463,7 +2463,7 @@ to {top: -20px;}
   margin-bottom: 0.5rem;
   color: #ffffff;
  width: 100%;
- transform: translateX(9px)
+ transform: translateX(0px)
  translateY(-5px);
 }
 
@@ -2682,7 +2682,7 @@ to {top: 0px;}
 }
 
 .detail-list .detail-data-value {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 100px;
   width: 100%;
   line-height: 1.4;
